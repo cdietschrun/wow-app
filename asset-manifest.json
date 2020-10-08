@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/wow-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/wow-app/static/js/main.3ff2903e.chunk.js",
-    "main.js.map": "/wow-app/static/js/main.3ff2903e.chunk.js.map",
+    "main.js": "/wow-app/static/js/main.54f38ea9.chunk.js",
+    "main.js.map": "/wow-app/static/js/main.54f38ea9.chunk.js.map",
     "runtime-main.js": "/wow-app/static/js/runtime-main.379f1cc9.js",
     "runtime-main.js.map": "/wow-app/static/js/runtime-main.379f1cc9.js.map",
-    "static/js/2.6bb1d75e.chunk.js": "/wow-app/static/js/2.6bb1d75e.chunk.js",
-    "static/js/2.6bb1d75e.chunk.js.map": "/wow-app/static/js/2.6bb1d75e.chunk.js.map",
+    "static/js/2.73cf92cf.chunk.js": "/wow-app/static/js/2.73cf92cf.chunk.js",
+    "static/js/2.73cf92cf.chunk.js.map": "/wow-app/static/js/2.73cf92cf.chunk.js.map",
     "index.html": "/wow-app/index.html",
-    "precache-manifest.c48c29f7ebc95a165119ed21b16f7a66.js": "/wow-app/precache-manifest.c48c29f7ebc95a165119ed21b16f7a66.js",
+    "precache-manifest.c1c039b4f765d509583183a26517e2b0.js": "/wow-app/precache-manifest.c1c039b4f765d509583183a26517e2b0.js",
     "service-worker.js": "/wow-app/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/wow-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.6bb1d75e.chunk.js.LICENSE.txt": "/wow-app/static/js/2.6bb1d75e.chunk.js.LICENSE.txt",
+    "static/js/2.73cf92cf.chunk.js.LICENSE.txt": "/wow-app/static/js/2.73cf92cf.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/wow-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.379f1cc9.js",
-    "static/js/2.6bb1d75e.chunk.js",
+    "static/js/2.73cf92cf.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3ff2903e.chunk.js"
+    "static/js/main.54f38ea9.chunk.js"
   ]
 }
