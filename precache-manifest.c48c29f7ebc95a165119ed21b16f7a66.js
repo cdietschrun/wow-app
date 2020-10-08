@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cb968b05b742d9f5d7b7698a7e92106",
+    "revision": "517740439bbffd06d1b254645cc92668",
     "url": "/wow-app/index.html"
   },
   {
-    "revision": "29156ab172874820e785",
+    "revision": "e86a898b6dab5d33d757",
     "url": "/wow-app/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wow-app/static/js/2.6bb1d75e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "29156ab172874820e785",
-    "url": "/wow-app/static/js/main.6b9919c8.chunk.js"
+    "revision": "e86a898b6dab5d33d757",
+    "url": "/wow-app/static/js/main.3ff2903e.chunk.js"
   },
   {
     "revision": "04eb56e654a0c4e4ad7e",
