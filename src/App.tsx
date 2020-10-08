@@ -16,10 +16,8 @@ function App()
   async function getCharacterData()
   {
     const BnetApi = new BlizzAPI({region:'us',
-                                  clientId: 'fcfe325a7c74445e8e7f5a27ca66520f', 
-                                  clientSecret: 'kOrHT94U3YWLwr9cx874ui3H8t5Ok4jK' });
-    const accessToken = await BnetApi.getAccessToken();
-    console.log(accessToken);
+                                  clientId: process.env.REACT_APP_WOW_APP_CLIENT_ID, 
+                                  clientSecret: process.env.REACT_APP_WOW_APP_SECRET_ID });
 
     const character_header = await BnetApi.query('/profile/wow/character/zuljin/tyegath', 
     { headers: { 'Battlenet-Namespace':'profile-us' } });
